@@ -1,0 +1,5 @@
+{
+  "name": "TripSync - AI Travel Planner",
+  "description": "A comprehensive travel planning application integrating LocalStorage, Google Sheets, and Google Drive for seamless offline-first project management. Features AI-powered itinerary generation.",
+  "requestFramePermissions": []
+}
